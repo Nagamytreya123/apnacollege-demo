@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first commit
 <br>
-Author-Nagamytreya Gulubham
+Author-Nagamytreya Gulubham.
